@@ -1,0 +1,71 @@
+.container{
+    position: relative;
+}
+.box1{
+    background-image: url(https://technext.github.io/stylish-portfolio/img/portfolio-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    text-align: center;
+     }
+     .box9{
+        position: absolute;
+        top: 220px;
+        left: 120px; 
+        
+     }
+     .btn1{
+        background-color: rgb(29, 128, 159);
+        color: rgb(255, 255, 255);
+        border: none;
+        border-radius: 5px;
+        padding: 20px 30px;
+        position: absolute;
+        left: 80px;
+        top: 75px;
+        
+        
+     }
+     .box1 >h1{
+        font-size: 50px;
+        
+        
+     }
+     .box1 >p{
+        font-weight: bold;
+       font-style: italic;
+        font-size: 20px;
+     }
+      .box2{
+        height: 500px;
+        background-color: rgb(231, 229, 229);
+        text-align: center;
+        padding: 50px 50px ;
+        position: relative;
+             
+      }
+      .btn2{
+        background-color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
+        border: none;
+        border-radius: 5px;
+        padding: 20px 50px;
+        position: absolute;
+        left: 190px;
+        top: 195px;
+      }
+       .box3{
+        text-align: center ;
+        background-color:rgb(29, 128, 159);
+       }
+      .box3 >h3{
+        color: rgb(255, 230, 0);
+        padding-top: 40px;
+
+        
+      }
+      .box3 >h4{
+        font-size: 40px;
+        color: white;
+        
+      }
