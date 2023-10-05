@@ -1,0 +1,22 @@
+img{
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.box1{
+    display: flex;
+}
+ .box1{
+    background-color: rgb(224, 224, 224);
+ }
+  #btn1{
+    width: 50px;
+    height: 20px;
+    border: none;
+    border-radius: 3px;
+
+}
+.ul1{
+    display: flex;
+}
