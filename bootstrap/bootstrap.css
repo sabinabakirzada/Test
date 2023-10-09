@@ -1,0 +1,49 @@
+header {
+  background-image: url(https://st.depositphotos.com/1032561/2360/i/450/depositphotos_23603949-Businessman-leader-on-the-foreground-of-his-team.jpg);
+  background-size: cover;
+  
+}
+
+.icon1 {
+  display: flex;
+  gap: 10px;
+  margin-right: 50px;
+}
+.nav1 {
+  padding-top: 10px;
+  display: flex;
+  gap: 30px;
+}
+.navbar > h1 {
+  color: white;
+}
+.nav1 > li > a {
+  color: white;
+}
+.navbar {
+  border-bottom: 1px solid rgb(223, 223, 223);
+}
+.btn11 {
+  border-radius: 40px;
+  padding: 15px 30px;
+  color: white;
+  font-weight: 700;
+}
+
+
+  .btn1 {
+    background-color: #505cfd;
+    border: none;
+  }
+  .btn2{
+      border: 2px solid white;
+      background-color: rgba(255, 255, 255, 0);
+  }
+  .box2 {
+    color: white;
+    text-align: center;
+   padding: 200px 0px;
+    
+    
+  }
+}
